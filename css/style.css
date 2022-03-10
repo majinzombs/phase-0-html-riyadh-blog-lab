@@ -21,7 +21,7 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(206, 237, 245, 0.85);
 }
 
 h1, h2 {
@@ -35,6 +35,7 @@ h1 {
 }
 
 h2 {
+  color: black;
   font-size: 1.5em;
   margin-top: .5em;
 }
